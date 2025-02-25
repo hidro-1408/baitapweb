@@ -1,0 +1,24 @@
+
+
+#thep1
+{
+    color: red;
+    font-size: 30px;
+}
+
+#bang1, #bang1 td, #bang1 th
+{
+     border: 2px solid red;
+     border-width: 5px;
+}
+#bang1
+{
+   width: 50%;
+}
+#bang1 td
+{
+    color: limegreen;
+}
+
+
+
