@@ -6,18 +6,33 @@
     font-size: 30px;
 }
 
-#bang1, #bang1 td, #bang1 th
+.bang1, .bang1 td, .bang1 th
 {
-     border: 2px solid red;
+     border:  1px solid;
+     border-color: blue;
      border-width: 5px;
+     margin-top: 10px;
+     margin-left: 350px;
 }
-#bang1
+.bang1
 {
    width: 50%;
+   font-family: French Script MT;
+   font-size: 18px;
+   color: #33A;
+   border-collapse: collapse;
 }
-#bang1 td
+
+.bang1 th
 {
-    color: limegreen;
+    background-color: red;
+    color: #33A;
+}
+
+.bang1 td
+{
+    background-color: pink;
+    color: #33A;
 }
 
 
